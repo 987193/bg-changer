@@ -1,134 +1,46 @@
-# React Vite Background Color Changer
+# 🎨 Background Changer (React + Vite)
 
-A simple React application built with Vite that allows users to change the background color dynamically using a set of buttons.
+A simple and smooth **background color changer app** built using **React**, **Tailwind CSS**, and **Vite**.  
+The app allows users to change the background color with a single click, featuring smooth transitions and a clean UI.
 
----
-
-## Features
-
-- Fast and optimized React setup with Vite
-- Multiple color options to customize background
-- Smooth transition effects
-- Responsive and clean UI
+🔗 **Live Demo:** https://inspiring-clafoutis-4f8ff9.netlify.app/
 
 ---
 
-## Technologies Used
+## 🚀 Features
+- Change background color instantly  
+- Smooth transitions  
+- Minimal and responsive design  
+- Built with React + Vite  
+- Tailwind CSS styling  
 
-- React
-- Vite
-- Tailwind CSS (assuming based on classNames)
-- JavaScript
 
 ---
 
-## Getting Started
+## 🛠️ Technologies Used
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
 
-Follow these instructions to set up the project locally.
+---
 
-### Prerequisites
-
-- Node.js (v14 or above)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
+## 📦 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-
-```markdown
-# React Vite Background Color Changer
-
-A simple React application built with Vite that allows users to change the background color dynamically using a set of buttons.
-
----
-
-## Features
-
-- Fast and optimized React setup with Vite
-- Multiple color options to customize background
-- Smooth transition effects
-- Responsive and clean UI
-
----
-
-## Technologies Used
-
-- React
-- Vite
-- Tailwind CSS
-- JavaScript
-
----
-
-## Getting Started
-
-Follow these instructions to set up the project locally.
-
-### Prerequisites
-
-- Node.js (v14 or above)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/987193/bg-changer.git
-```
-
-2. Navigate into the project directory
-
-```bash
-cd bg-changer
-```
-
-3. Install dependencies
-
-```bash
+# Install dependencies
 npm install
-# or
-yarn install
-```
 
-### Run the development server
-
-Start the app locally:
-
-```bash
+# Start development server
 npm run dev
-# or
-yarn dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
 ```
-
-Open your browser and visit `http://localhost:3000` to see the app in action.
-
 ---
+## 📜 License
 
-## Usage
-
-Click on any of the color buttons to change the background color instantly. The background smoothly transitions to the selected color.
-
----
-
-## Customization
-
-Feel free to add more colors or customize the button styles further to suit your needs!
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Acknowledgments
-
-- React and Vite documentation
-- Tailwind CSS for styling
-```
-
+Free to use and modify.
